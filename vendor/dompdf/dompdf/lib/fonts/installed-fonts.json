@@ -1,0 +1,12 @@
+{
+    "lato": {
+        "300": "\/home1\/a1771ab9\/public_html\/staging.tecla.in\/teclahrms\/vendor\/dompdf\/dompdf\/lib\/fonts\/lato_300_f0c6ee3e35bb77a61aee3101d2b14826",
+        "normal": "\/home1\/a1771ab9\/public_html\/staging.tecla.in\/teclahrms\/vendor\/dompdf\/dompdf\/lib\/fonts\/lato_normal_ed3f4ee6166e4a8d875402747e6fb7a0",
+        "bold": "lato_bold_67cbea2936080f3d5601566280ed0b77"
+    },
+    "playfair display": {
+        "normal": "\/home1\/a1771ab9\/public_html\/staging.tecla.in\/teclahrms\/vendor\/dompdf\/dompdf\/lib\/fonts\/playfair_display_normal_ec27347baaef350a626d943a8fab74c6",
+        "600": "\/home1\/a1771ab9\/public_html\/staging.tecla.in\/teclahrms\/vendor\/dompdf\/dompdf\/lib\/fonts\/playfair_display_600_555a1287914f9012e021a3b119eb30d7",
+        "bold": "playfair_display_bold_1e531eb7e3e1e9744697b9dd01c254b4"
+    }
+}

@@ -1,0 +1,878 @@
+[17-Jun-2025 08:17:24 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\Backend\Employee\OvertimeController as OvertimeController because the name is already in use in /home1/teclar57/public_html/teclahrms/routes/web.php on line 22
+[17-Jun-2025 08:17:40 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\Backend\Employee\OvertimeController as OvertimeController because the name is already in use in /home1/teclar57/public_html/teclahrms/routes/web.php on line 22
+[17-Jun-2025 08:18:20 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\Backend\Employee\OvertimeController as OvertimeController because the name is already in use in /home1/teclar57/public_html/teclahrms/routes/web.php on line 22
+[17-Jun-2025 08:19:03 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\Backend\Worklog\WorklogController as WorklogController because the name is already in use in /home1/teclar57/public_html/teclahrms/routes/web.php on line 597
+[30-May-2026 11:00:38 Asia/Kolkata] PHP Fatal error:  Cannot redeclare getOverallStatus() (previously declared in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/storage/framework/views/5acbd4c9990beef7e768f4d2beb9b0a8138ba62d.php:18) in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/storage/framework/views/5acbd4c9990beef7e768f4d2beb9b0a8138ba62d.php on line 18
+[30-May-2026 11:00:39 Asia/Kolkata] PHP Fatal error:  Cannot redeclare getOverallStatus() (previously declared in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/storage/framework/views/5acbd4c9990beef7e768f4d2beb9b0a8138ba62d.php:18) in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/storage/framework/views/5acbd4c9990beef7e768f4d2beb9b0a8138ba62d.php on line 18
+[30-May-2026 11:01:47 Asia/Kolkata] PHP Fatal error:  Cannot redeclare getOverallStatus() (previously declared in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/storage/framework/views/5acbd4c9990beef7e768f4d2beb9b0a8138ba62d.php:18) in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/storage/framework/views/5acbd4c9990beef7e768f4d2beb9b0a8138ba62d.php on line 18
+[30-May-2026 11:01:51 Asia/Kolkata] PHP Fatal error:  Cannot redeclare getOverallStatus() (previously declared in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/storage/framework/views/5acbd4c9990beef7e768f4d2beb9b0a8138ba62d.php:18) in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/storage/framework/views/5acbd4c9990beef7e768f4d2beb9b0a8138ba62d.php on line 18
+[30-May-2026 11:06:27 Asia/Kolkata] PHP Fatal error:  Cannot redeclare getOverallStatus() (previously declared in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/storage/framework/views/5acbd4c9990beef7e768f4d2beb9b0a8138ba62d.php:18) in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/storage/framework/views/5acbd4c9990beef7e768f4d2beb9b0a8138ba62d.php on line 18
+[30-May-2026 11:06:32 Asia/Kolkata] PHP Fatal error:  Cannot redeclare getOverallStatus() (previously declared in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/storage/framework/views/5acbd4c9990beef7e768f4d2beb9b0a8138ba62d.php:18) in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/storage/framework/views/5acbd4c9990beef7e768f4d2beb9b0a8138ba62d.php on line 18
+[30-May-2026 11:07:53 Asia/Kolkata] PHP Fatal error:  Cannot redeclare getOverallStatus() (previously declared in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/storage/framework/views/5acbd4c9990beef7e768f4d2beb9b0a8138ba62d.php:18) in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/storage/framework/views/5acbd4c9990beef7e768f4d2beb9b0a8138ba62d.php on line 18
+[30-May-2026 05:38:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php:23
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require()
+#1 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php on line 23
+[30-May-2026 05:38:19 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/platform_check.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 25
+[30-May-2026 05:38:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/platform_check.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:25
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#2 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 25
+[30-May-2026 05:38:21 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:38:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('6e3fae29631ef28...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:38:22 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:38:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('6e3fae29631ef28...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:38:39 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:38:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('6e3fae29631ef28...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:38:43 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:38:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('6e3fae29631ef28...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:38:43 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:38:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('6e3fae29631ef28...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:38:44 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:38:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('6e3fae29631ef28...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:38:44 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:38:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('6e3fae29631ef28...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:38:44 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:38:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('6e3fae29631ef28...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:38:54 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:38:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('6e3fae29631ef28...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:39:00 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:39:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('6e3fae29631ef28...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:39:04 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:39:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('6e3fae29631ef28...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:39:07 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:39:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('6e3fae29631ef28...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:39:22 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:39:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('6e3fae29631ef28...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:39:22 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:39:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('6e3fae29631ef28...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:39:23 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:39:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('6e3fae29631ef28...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:39:23 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:39:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/deprecation-contracts/function.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('6e3fae29631ef28...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:39:53 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:39:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('0e6d7bf4a5811bf...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:39:53 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:39:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('0e6d7bf4a5811bf...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:41:24 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:41:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:41:49 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:41:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:41:55 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:41:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:41:55 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:41:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:41:56 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:41:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:41:56 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:41:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:42:23 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:42:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:42:23 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:42:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:42:23 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:42:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:42:24 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:42:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:42:24 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:42:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:42:26 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:42:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:42:26 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:42:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:42:27 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:42:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:41 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:41 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:42 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:42 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:42 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:42 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:42 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:43 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:43 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:43 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:43 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:43 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:44 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:44 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:44 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:44 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:44 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:44 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:45 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:45 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:45 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:45 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:46 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:46 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:46 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:46 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:47 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:47 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:47 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:47 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:47 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:47 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:47 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:47 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:49 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:49 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:49 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:51 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:52 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:52 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:52 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:52 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:53 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:43:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:17 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:18 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:19 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:19 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:19 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:19 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:20 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:20 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:47 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:52 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:53 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:54 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:54 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:54 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:55 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:55 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:55 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:55 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:55 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:56 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:56 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:56 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:47:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:48:02 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:48:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:48:02 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:48:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('667aeda72477189...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:51:04 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:51:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('ec07570ca5a8121...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:51:04 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:51:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('ec07570ca5a8121...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:51:05 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:51:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('ec07570ca5a8121...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:51:06 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:51:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(45): {closure}('ec07570ca5a8121...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 41
+[30-May-2026 05:57:51 UTC] PHP Warning:  include(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../laravel/framework/src/Illuminate/Macroable/Traits/Macroable.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/ClassLoader.php on line 576
+[30-May-2026 05:57:51 UTC] PHP Warning:  include(): Failed opening '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../laravel/framework/src/Illuminate/Macroable/Traits/Macroable.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/ClassLoader.php on line 576
+[30-May-2026 05:57:51 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 32
+[30-May-2026 11:33:15 Asia/Kolkata] PHP Fatal error:  Cannot redeclare getOverallStatus() (previously declared in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/storage/framework/views/5acbd4c9990beef7e768f4d2beb9b0a8138ba62d.php:18) in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/storage/framework/views/5acbd4c9990beef7e768f4d2beb9b0a8138ba62d.php on line 18
+[30-May-2026 11:33:30 Asia/Kolkata] PHP Fatal error:  Cannot redeclare getOverallStatus() (previously declared in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/storage/framework/views/5acbd4c9990beef7e768f4d2beb9b0a8138ba62d.php:18) in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/storage/framework/views/5acbd4c9990beef7e768f4d2beb9b0a8138ba62d.php on line 18
+[30-May-2026 11:33:41 Asia/Kolkata] PHP Fatal error:  Cannot redeclare getOverallStatus() (previously declared in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/storage/framework/views/5acbd4c9990beef7e768f4d2beb9b0a8138ba62d.php:18) in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/storage/framework/views/5acbd4c9990beef7e768f4d2beb9b0a8138ba62d.php on line 18
+[30-May-2026 11:37:42 Asia/Kolkata] PHP Fatal error:  Cannot redeclare getOverallStatus() (previously declared in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/storage/framework/views/5acbd4c9990beef7e768f4d2beb9b0a8138ba62d.php:18) in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/storage/framework/views/5acbd4c9990beef7e768f4d2beb9b0a8138ba62d.php on line 18
+[10-Jun-2026 06:39:39 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../../app/Helpers/PermissionHelper.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 39
+[10-Jun-2026 06:39:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../../app/Helpers/PermissionHelper.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:39
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(43): {closure}('00620ec3787303b...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 39
+[10-Jun-2026 06:40:00 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../../app/Helpers/PermissionHelper.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 39
+[10-Jun-2026 06:40:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../../app/Helpers/PermissionHelper.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:39
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(43): {closure}('00620ec3787303b...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 39
+[10-Jun-2026 10:28:03 UTC] PHP Warning:  require(/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../../app/Helpers/PermissionHelper.php): Failed to open stream: No such file or directory in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 39
+[10-Jun-2026 10:28:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/../../app/Helpers/PermissionHelper.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php:39
+Stack trace:
+#0 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php(43): {closure}('00620ec3787303b...', '/home1/a1771ab9...')
+#1 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/autoload.php(25): ComposerAutoloaderInit65e85f9f959c0b087110331754d451cf::getLoader()
+#2 /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/public/index.php(34): require('/home1/a1771ab9...')
+#3 {main}
+  thrown in /home1/a1771ab9/public_html/staging.tecla.in/teclahrms/vendor/composer/autoload_real.php on line 39

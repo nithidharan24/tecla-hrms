@@ -1,0 +1,19 @@
+.header {
+  background-color: var(--header-bg) !important;
+  color: var(--header-text) !important;
+}
+
+.header .nav-link,
+.header .page-title-box h3,
+.header .user-menu .dropdown-toggle {
+  color: var(--header-text) !important;
+}
+
+.btn {
+  background-color: var(--primary-color) !important;
+  border-color: var(--primary-color) !important;
+}
+
+a:hover {
+  color: var(--primary-color) !important;
+}

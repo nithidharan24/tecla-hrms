@@ -1,0 +1,512 @@
+﻿/* DataTables Odoo-like Redesign */
+:root {
+  --odoo-primary: #e84924;
+  --odoo-primary-600: #e84924;
+  --odoo-bg: #f6f8fb;
+  --odoo-card: #ffffff;
+  --odoo-border: #e5e7eb;
+  --odoo-text: #111827;
+  --odoo-muted: #6b7280;
+  --odoo-selected: #e9f7f6;
+  --odoo-hover: #f2f7f6;
+  --odoo-chip: #eef6ff;
+  --odoo-chip-text: #1f5dbb;
+  --odoo-danger: #ef4444;
+}
+
+/* DataTable Container */
+.dataTables_wrapper {
+  background: var(--odoo-card);
+  border: 1px solid var(--odoo-border);
+  border-radius: 12px;
+  padding: 0;
+  margin-top: 16px;
+  box-shadow: 0 2px 8px rgba(17, 24, 39, 0.04);
+}
+
+/* Header with controls */
+.dataTables_wrapper .dataTables_length,
+.dataTables_wrapper .dataTables_filter,
+.dataTables_wrapper .dataTables_info,
+.dataTables_wrapper .dataTables_paginate {
+  padding: 16px;
+  color: var(--odoo-muted);
+  font-size: 14px;
+}
+
+/* Length selector */
+.dataTables_wrapper .dataTables_length {
+  border-bottom: 1px solid var(--odoo-border);
+  background: #f7f9fb;
+  border-radius: 12px 12px 0 0;
+}
+
+.dataTables_wrapper .dataTables_length label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0;
+  font-weight: 500;
+  color: var(--odoo-text);
+}
+
+.dataTables_wrapper .dataTables_length select {
+  border: 1px solid var(--odoo-border);
+  border-radius: 8px;
+  padding: 6px 10px;
+  background: white;
+  color: var(--odoo-text);
+  font-size: 13px;
+  transition: all 0.15s ease;
+}
+
+.dataTables_wrapper .dataTables_length select:focus {
+  outline: none;
+  border-color: var(--odoo-primary);
+  box-shadow: 0 0 0 3px rgba(232, 73, 36, 0.1);
+}
+
+/* Search filter */
+.dataTables_wrapper .dataTables_filter {
+  border-bottom: 1px solid var(--odoo-border);
+  background: #f7f9fb;
+}
+
+.dataTables_wrapper .dataTables_filter label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0;
+  font-weight: 500;
+  color: var(--odoo-text);
+}
+
+.dataTables_wrapper .dataTables_filter input {
+  border: 1px solid var(--odoo-border);
+  border-radius: 8px;
+  padding: 8px 12px;
+  background: white;
+  color: var(--odoo-text);
+  font-size: 13px;
+  transition: all 0.15s ease;
+  min-width: 200px;
+}
+
+.dataTables_wrapper .dataTables_filter input:focus {
+  outline: none;
+  border-color: var(--odoo-primary);
+  box-shadow: 0 0 0 3px rgba(232, 73, 36, 0.1);
+}
+
+/* Table styling */
+.dataTables_wrapper .dataTable {
+  width: 100% !important;
+  border-collapse: separate;
+  border-spacing: 0;
+  font-size: 14px;
+  margin: 0 !important;
+}
+
+.dataTables_wrapper .dataTable thead th {
+  background: #f7f9fb;
+  color: var(--odoo-muted);
+  font-weight: 600;
+  font-size: 16px;
+  padding: 12px 16px;
+  border-bottom: 1px solid #ed590a;
+  text-transform: none;
+  letter-spacing: 0.2px;
+  position: relative;
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+}
+
+.dataTables_wrapper .dataTable thead th:hover {
+  background: #f0f4f8;
+}
+
+.dataTables_wrapper .dataTable thead th.sorting:after,
+.dataTables_wrapper .dataTable thead th.sorting_asc:after,
+.dataTables_wrapper .dataTable thead th.sorting_desc:after {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 12px;
+  opacity: 0.5;
+}
+
+.dataTables_wrapper .dataTable thead th.sorting_asc:after {
+  content: "↑";
+  opacity: 1;
+  color: var(--odoo-primary);
+}
+
+.dataTables_wrapper .dataTable thead th.sorting_desc:after {
+  content: "↓";
+  opacity: 1;
+  color: var(--odoo-primary);
+}
+
+.dataTables_wrapper .dataTable tbody td {
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--odoo-border);
+  color: var(--odoo-text);
+  background: white;
+  transition: background-color 0.15s ease;
+  vertical-align: middle;
+}
+
+.dataTables_wrapper .dataTable tbody tr:hover td {
+  background: var(--odoo-hover);
+}
+
+.dataTables_wrapper .dataTable tbody tr.odd td {
+  background: #fafbfc;
+}
+
+.dataTables_wrapper .dataTable tbody tr.odd:hover td {
+  background: var(--odoo-hover);
+}
+
+/* First/last child rounded corners */
+.dataTables_wrapper .dataTable tbody tr:first-child td:first-child {
+  border-top-left-radius: 0;
+}
+
+.dataTables_wrapper .dataTable tbody tr:first-child td:last-child {
+  border-top-right-radius: 0;
+}
+
+.dataTables_wrapper .dataTable tbody tr:last-child td:first-child {
+  border-bottom-left-radius: 0;
+}
+
+.dataTables_wrapper .dataTable tbody tr:last-child td:last-child {
+  border-bottom-right-radius: 0;
+}
+
+/* Bottom info and pagination */
+.dataTables_wrapper .dataTables_info {
+  border-top: 1px solid var(--odoo-border);
+  background: #f7f9fb;
+  padding: 12px 16px;
+  color: var(--odoo-muted);
+  font-size: 13px;
+}
+
+.dataTables_wrapper .dataTables_paginate {
+  border-top: 1px solid var(--odoo-border);
+  background: #f7f9fb;
+  padding: 12px 16px;
+  border-radius: 0 0 12px 12px;
+}
+
+/* Pagination buttons */
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+  border: 1px solid var(--odoo-border) !important;
+  background: white !important;
+  color: var(--odoo-text) !important;
+  padding: 6px 12px !important;
+  margin-left: 4px !important;
+  border-radius: 8px !important;
+  font-size: 13px !important;
+  transition: all 0.15s ease !important;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+  background: var(--odoo-hover) !important;
+  border-color: var(--odoo-border) !important;
+  color: var(--odoo-text) !important;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.current {
+  background: var(--odoo-primary) !important;
+  border-color: var(--odoo-primary) !important;
+  color: white !important;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.disabled,
+.dataTables_wrapper .dataTables_paginate .paginate_button.disabled:hover {
+  background: #f9fafb !important;
+  color: var(--odoo-muted) !important;
+  cursor: not-allowed;
+}
+
+/* Processing indicator */
+.dataTables_wrapper .dataTables_processing {
+  background: var(--odoo-primary);
+  color: white;
+  border-radius: 8px;
+  padding: 12px 20px;
+  font-weight: 500;
+  border: none;
+  box-shadow: 0 4px 12px rgba(232, 73, 36, 0.2);
+}
+
+/* Scroll body styling */
+.dataTables_scrollBody .dataTable tbody td {
+  border-top: none;
+}
+
+.dataTables_scrollHead .dataTable thead th {
+  border-bottom: 1px solid var(--odoo-border);
+}
+
+/* Mobile Responsive */
+@media screen and (max-width: 767px) {
+  .dataTables_wrapper {
+    border-radius: 8px;
+  }
+  
+  .dataTables_wrapper .dataTables_length,
+  .dataTables_wrapper .dataTables_filter {
+    padding: 12px;
+  }
+  
+  .dataTables_wrapper .dataTables_length label,
+  .dataTables_wrapper .dataTables_filter label {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+  }
+  
+  .dataTables_wrapper .dataTables_filter input {
+    min-width: 100%;
+  }
+  
+  .dataTables_wrapper .dataTable thead {
+    display: none;
+  }
+  
+  .dataTables_wrapper .dataTable tbody,
+  .dataTables_wrapper .dataTable tbody tr,
+  .dataTables_wrapper .dataTable tbody td {
+    display: block;
+    width: 100% !important;
+    text-align: left !important;
+  }
+  
+  .dataTables_wrapper .dataTable tbody tr {
+    background: white;
+    border: 1px solid var(--odoo-border);
+    border-radius: 8px;
+    margin-bottom: 12px;
+    padding: 16px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  
+  .dataTables_wrapper .dataTable tbody td {
+    padding: 12px 0 !important;
+    border: none !important;
+    border-bottom: 1px solid #f3f4f6 !important;
+  }
+  
+  .dataTables_wrapper .dataTable tbody td:last-child {
+    border-bottom: none !important;
+  }
+  
+  /* Add data labels for mobile */
+  .dataTables_wrapper .dataTable tbody td:before {
+    content: attr(data-label);
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--odoo-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    display: block;
+    margin-bottom: 4px;
+  }
+  
+  .dataTables_wrapper .dataTables_info,
+  .dataTables_wrapper .dataTables_paginate {
+    padding: 12px;
+    text-align: center;
+  }
+  
+  .dataTables_wrapper .dataTables_paginate .paginate_button {
+    padding: 8px 12px !important;
+    margin: 2px !important;
+  }
+}
+
+/* Integration with existing Odoo styles */
+.dataTables_wrapper .od-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--odoo-chip);
+  color: var(--odoo-chip-text);
+  padding: 4px 8px;
+  border-radius: 999px;
+  font-weight: 600;
+  border: 1px solid #dbe9ff;
+  font-size: 12px;
+}
+
+.dataTables_wrapper .od-avatar {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid var(--odoo-border);
+  background: #f9fafb;
+}
+
+.dataTables_wrapper .od-row {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.dataTables_wrapper .od-name {
+  font-weight: 600;
+  color: var(--odoo-text);
+  line-height: 1.2;
+}
+
+.dataTables_wrapper .od-sub {
+  color: var(--odoo-muted);
+  font-size: 12px;
+}
+
+.dataTables_wrapper .od-inline-actions {
+  display: flex;
+  gap: 6px;
+  justify-content: flex-end;
+}
+
+.dataTables_wrapper .od-icon-btn {
+  width: 30px;
+  height: 30px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  border: 1px solid var(--odoo-border);
+  background: #fff;
+  color: var(--odoo-muted);
+  transition: all 0.15s ease;
+}
+
+.dataTables_wrapper .od-icon-btn:hover {
+  background: #f9fafb;
+  color: var(--odoo-text);
+}
+
+.dataTables_wrapper .od-icon-btn.danger:hover {
+  color: var(--odoo-danger);
+  border-color: #fecaca;
+  background: #fff5f5;
+}
+
+
+
+/* Odoo-style checkbox */
+.od-check {
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border: 2px solid #706b68; /* Odoo primary color */
+    border-radius: 4px;
+    background: #fff;
+    cursor: pointer;
+    position: relative;
+    transition: all 0.25s ease;
+}
+
+.od-check:checked {
+    background: #e84924;
+    border-color: #e84924;
+}
+
+.od-check::after {
+    content: "";
+    position: absolute;
+    top: 2px;
+    left: 6px;
+    width: 5px;
+    height: 10px;
+    border: solid #fff;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg) scale(0.6);
+    opacity: 0;
+    transition: all 0.2s ease;
+}
+
+.od-check:checked::after {
+    opacity: 1;
+    transform: rotate(45deg) scale(1);
+}
+
+/* Highlight row when checkbox is checked */
+tr.od-selected {
+    background: #e9f7f6 !important; /* Odoo selection background */
+    color: #e84924 !important;       /* Odoo primary text color */
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+/* Odoo inline action icons */
+.od-icon-btn {
+    width: 32px;
+    height: 32px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    border: 1px solid #e5e7eb;
+    background: #fff;
+    color: #ed590a !important;
+    transition: all 0.15s ease;
+    cursor: pointer;
+    border: 1px solid rgb(255, 89, 0) !important;
+}
+
+.od-icon-btn:hover {
+    background: #ed590a !important;
+    color: #ffffff !important;
+}
+
+.od-icon-btn.danger:hover {
+    color: #ef4444;
+    border-color: #fecaca;
+    background: #fff5f5;
+}
+/* Row highlight when selected */
+tr.od-selected {
+    background-color: #ffffff !important;  /* light teal */
+    color: #e84924 !important;            /* Odoo primary color for text */
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+/* Ensure all text inside the row inherits the color */
+tr.od-selected td,
+tr.od-selected td a,
+tr.od-selected td strong,
+tr.od-selected td .text-muted {
+    color: #052575 !important;
+    background: rgb(229, 233, 255) !important;
+}
+/* Column text highlight */
+.od-text-highlight {
+    color: #e84924;       /* Odoo primary color */
+    font-weight: 600;
+}
+
+/* Capsule background highlight */
+.od-chip-highlight {
+    display: inline-block !important;
+    padding: 4px 10px; 
+    background-color: #ed5c13 !important;   /* subtle light blue */
+    color: #eaeaea !important;              /* Odoo chip text */
+    border-radius: 999px;
+    font-weight: 600;
+    font-size: 12px;
+    
+}
+td .high {
+    color: orangered !important;
+    font-weight: 600;
+}
